@@ -2,6 +2,8 @@
 
 // СРЕДА ------------
 
-// ПРОМЕНИ ТУК:
+ Ivelin und Nikola schreiben den Text. Sie scheiße deine Mutter. Sie lieben zu Programmieren
+
+// ПРОМЕНИ ТУК
 
 // КРАЙ -------------
