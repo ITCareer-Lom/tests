@@ -3,9 +3,9 @@
 
 // СРЕДА ------------
 
- Ivelin und Nikola schreiben den Text. Sie scheiße deine Mutter. Sie lieben zu Programmieren
+ Ivelin und Nikola schreiben den Text. Sie scheiße deine Mutter. Sie lieben zu Programmieren. Nikola ist ein Schwein!
 
-// ПРОМЕНИ ТУК: дани Мария
+// ПРОМЕНИ ТУК: Вики дани Мария
 
 // КРАЙ -------------
 дани
